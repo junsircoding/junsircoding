@@ -8,14 +8,18 @@
 </h4>
 
 <div align="center">
-<img src="./imgs/me.png"  alt="我的头像" align="center" />
+  <img src="./imgs/me.png"  alt="我的头像" align="center" />
 </div>
 
 <summary>
-<h2>Github Info</h2>
+  <h2>Github Info</h2>
 </summary>
 	
-<summary><b>🔎 Github Profile Details</b></summary>
+<summary>
+  <b>🔎 Github Profile Details</b>
+</summary>
+
+<br>
 
 <div align="center">
   <img 
@@ -23,15 +27,12 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junsircoding" 
       alt="junsircoding" 
       align="center"/>
-
 </div>
 
 <br>
-
-<summary>
+  <summary>
     <b>⚡ Github Stats</b>
-</summary>
-
+  </summary>
 <br>
 
 <div align="center">
@@ -47,8 +48,10 @@
       align = "center"/>
 </div>
 
+<br>
+
 <summary>
-    <b>📊 Github Contribution Graph</b>
+  <b>📊 Github Contribution Graph</b>
 </summary>
 
 <br>
