@@ -7,7 +7,7 @@
   A Python Engineer
 </h4>
 
-![](./imgs/me.png)
+<img src="./imgs/me.png"  alt="图片名称" align="center" />
 
 <h2>Github Info</h2>
 	
