@@ -26,9 +26,13 @@
 
 </div>
 
+<br>
+
 <summary>
     <b>⚡ Github Stats</b>
 </summary>
+
+<br>
 
 <div align="center">
   <img 
@@ -46,6 +50,8 @@
 <summary>
     <b>📊 Github Contribution Graph</b>
 </summary>
+
+<br>
 
 <div align="center">
     <a href="https://activity-graph.herokuapp.com/graph?username=junsircoding">
