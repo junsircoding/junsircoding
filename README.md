@@ -7,27 +7,30 @@
   A Python Engineer
 </h4>
 
-<img src="./imgs/me.png"  alt="图片名称" align="center" />
+<div align="center">
+<img src="./imgs/me.png"  alt="我的头像" align="center" />
+</div>
 
+<summary>
 <h2>Github Info</h2>
+</summary>
 	
-  <summary><b>🔎 Github Profile Details</b></summary>
+<summary><b>🔎 Github Profile Details</b></summary>
 
-<p align="center">
-
+<div align="center">
   <img 
       height="180em" 
       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=junsircoding" 
       alt="junsircoding" 
       align="center"/>
 
-</p>
+</div>
 
 <summary>
     <b>⚡ Github Stats</b>
 </summary>
 
-<p align="center">
+<div align="center">
   <img 
       height="180em" 
       src="https://github-readme-stats.vercel.app/api?username=junsircoding" 
@@ -38,18 +41,18 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=junsircoding" 
       alt="junsircoding" 
       align = "center"/>
-</p>
+</div>
 
 <summary>
     <b>📊 Github Contribution Graph</b>
 </summary>
 
-<p align="center">
+<div align="center">
     <a href="https://activity-graph.herokuapp.com/graph?username=junsircoding">
         <img 
             alt="Ashish Kumar Activity Graph" 
             src="https://activity-graph.herokuapp.com/graph?username=junsircoding" />
     </a>
-</p>
+</div>
 
 <br>
