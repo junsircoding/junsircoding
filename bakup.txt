@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="./imgs/me.png"  alt="我的头像" align="center" />
+</div>
+
 <summary>
   <h2>Github Info</h2>
 </summary>
